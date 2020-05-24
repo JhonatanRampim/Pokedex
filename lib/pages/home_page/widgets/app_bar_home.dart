@@ -30,7 +30,7 @@ class AppBarHome extends StatelessWidget {
                   style: TextStyle(
                       fontFamily: 'Google',
                       fontWeight: FontWeight.bold,
-                      fontSize: 46),
+                      fontSize: 28),
                 ),
               )
             ],
